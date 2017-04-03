@@ -1,2 +1,2 @@
-# ejercicios_C
-Ejercicios de programación C#
+# Ejercicios de programación C#
+IDE: Visual Studio
